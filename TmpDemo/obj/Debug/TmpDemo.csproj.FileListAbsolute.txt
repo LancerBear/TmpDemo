@@ -1,0 +1,9 @@
+G:\VS\Projects\TmpDemo\TmpDemo\bin\Debug\TmpDemo.exe.config
+G:\VS\Projects\TmpDemo\TmpDemo\bin\Debug\TmpDemo.exe
+G:\VS\Projects\TmpDemo\TmpDemo\bin\Debug\TmpDemo.pdb
+G:\VS\Projects\TmpDemo\TmpDemo\obj\Debug\TmpDemo.csprojResolveAssemblyReference.cache
+G:\VS\Projects\TmpDemo\TmpDemo\obj\Debug\TmpDemo.Properties.Resources.resources
+G:\VS\Projects\TmpDemo\TmpDemo\obj\Debug\TmpDemo.csproj.GenerateResource.Cache
+G:\VS\Projects\TmpDemo\TmpDemo\obj\Debug\TmpDemo.exe
+G:\VS\Projects\TmpDemo\TmpDemo\obj\Debug\TmpDemo.pdb
+G:\VS\Projects\TmpDemo\TmpDemo\obj\Debug\TmpDemo.Form1.resources
